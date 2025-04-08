@@ -1,2 +1,2 @@
-# bastilla-2025
-Static Website for Bastilla
+#Bastilla Website
+Static Website for Bastilla 
