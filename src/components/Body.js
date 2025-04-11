@@ -2,7 +2,7 @@ import React from "react";
 
 const partidos = [
   { res1: "2", res2: "3", fecha: "2025-04-03", rival: "Estudiantes de la Planta", hora: "9:30 PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "1ª Jornada: LRU Senior" },
-  { res1: "", res2: "", fecha: "2025-04-10", rival: "LPC", hora: "8:00 PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "2ª Jornada: LRU Senior" },
+  { res1: "2", res2: "3", fecha: "2025-04-10", rival: "LPC", hora: "8:00 PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "2ª Jornada: LRU Senior" },
   { res1: "", res2: "", fecha: "2025-04-17", rival: "Mota Classic", hora: "?:?? PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "3ª Jornada: LRU Senior" },
   { res1: "", res2: "", fecha: "2025-04-24", rival: "Canadiense", hora: "?:?? PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "4ª Jornada: LRU Senior" },
   { res1: "", res2: "", fecha: "2025-05-08", rival: "Canadiense", hora: "?:?? PM", cancha: "?", ubicacion: "Sta. Rosa de Huechuraba, 6790", tipo: "5ª Jornada: LRU Senior" },
